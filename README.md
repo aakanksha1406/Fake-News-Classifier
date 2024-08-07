@@ -1,6 +1,7 @@
 # Fake-News-Classifier
 
-# Libraries
+**Dataset Source:** https://www.kaggle.com/c/fake-news/data
+### Libraries
 
 - pandas
 - matplotlib
@@ -9,7 +10,7 @@
 - scikit-learn
 - nltk
 
-# Neural Network
+### Neural Network
 
 <li>LSTM Network
   
