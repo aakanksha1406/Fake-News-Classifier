@@ -14,4 +14,4 @@
 
 <li>LSTM Network
   
-**Accuracy:** 95.00 (Train more than 50 epochs)
+**Accuracy:** 93.00 (Train more than 40 epochs)
